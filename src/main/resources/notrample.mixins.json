@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.no.trample.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "noTrampleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
